@@ -1,0 +1,5 @@
+com\spring\app\dao\LoginDao.class
+com\spring\app\controller\LoginController.class
+com\spring\app\validators\UserValidator.class
+com\spring\app\service\LoginService.class
+com\spring\app\vo\User.class
